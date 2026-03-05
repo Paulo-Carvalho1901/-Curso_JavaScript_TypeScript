@@ -138,14 +138,3 @@ https://www.udemy.com/course/curso-de-javascript-moderno-do-basico-ao-avancado/
 Instrutor: **Luiz Otávio Miranda**
 
 ---
-
-# 👨‍💻 Autor
-
-Seu Nome
-
-GitHub:
-https://github.com/seuusuario
-
----
-
-⭐ Se este repositório te ajudar nos estudos, considere deixar uma estrela.
