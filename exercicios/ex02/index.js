@@ -14,6 +14,6 @@ let peso = 96;
 const alturaEmCm = 1.80;
 let IMC = peso / (alturaEmCm * alturaEmCm);
 
-console.log(nome, 'tem', idade, 'anos,', 'pesa', peso, 'kg');
-console.log('tem', alturaEmCm, 'altura e seu IMC é', IMC);
-console.log(nome, 'nasceu em', anoNascimento);
+console.log(`${nome} tem ${idade} anos, pesa ${peso} kg`);
+console.log(`tem ${alturaEmCm} altura e seu IMC é ${IMC}`);
+console.log(`${nome} nasceu em ${anoNascimento}.`);
