@@ -55,6 +55,8 @@ console.log(contador2);
 
 // NaN - not a number
 const numero1 = 10;
-const numero2 = parseFloat('5.2');
+const numero2 = Number('5.2');
+// const numero2 = parseInt'5.2');
+// const numero2 = parseFloat('5.2');
 console.log(numero1 + numero2);
 console.log(typeof numero2)
