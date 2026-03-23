@@ -1,5 +1,5 @@
 console.log('Paulo "Carvalho"'); // String = Texto
-console.log("Paulo 'Carvalho'"); // Number = Número
+console.log(12, 12, 55); // Number = Número
 console.log(`Paulo Roberto`);
 
 
